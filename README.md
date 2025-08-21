@@ -1,35 +1,25 @@
-<h1 align="left">Hi 👋, I'm Sheikh Hanaan</h1>
+# 👋 Hi, I'm Sheikh Hanaan
 
-###
+🔹 **Data Analyst | 2 Years of Experience | Turning Data into Insights**
 
-<h1 align="center">Frontend Developer  |  Self Taught  | Working On Web Development</h1>
+---
 
-###
+## About Me
+I’m passionate about transforming raw data into actionable insights. With 2 years of experience in analyzing complex datasets, I specialize in **data visualization, statistical analysis, and business intelligence** to help organizations make data-driven decisions.
 
-<p align="left">• 🎯 Goal : To be a Better Developer<br><br>• 🌱 I’m currently learning React<br><br>• 📫 How to reach me sheikhhanaan558@gmail.com</p>
+---
 
-###
+## Skills
+- **Data Analysis & Visualization:** Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, Power BI
+- **Database Management:** SQL, MySQL
+- **Statistical Modeling & Machine Learning:** Regression, Classification, Forecasting
+- **Tools & Platforms:** Tableau, Google Analytics, Jupyter Notebook
 
-<h2 align="left">Languages and Tools:</h2>
 
-###
+## Contact Me
+📧 Email: sheikhhanaan123@gmail.com  
+💼 LinkedIn:www.linkedin.com/in/sheikhhanaan
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
+---
 
-###
+✨ I love making data tell stories that matter.
